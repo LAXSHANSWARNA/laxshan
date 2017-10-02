@@ -1,0 +1,4 @@
+Mynum1= int(input("please type in the number:"))
+     Mynum2= int(input("please type in the number:")
+    mynumber=Mynum1+Mynum2 
+     print(mynumber)
